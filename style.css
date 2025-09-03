@@ -43,6 +43,9 @@
 
   transition: 1s;
 }
+.hgt{
+  color:lightblue;
+}
 .btn {
   width: 120px;
   margin-right: 60px;
@@ -112,6 +115,7 @@
 }
 .learn {
   margin-left: 20px;
+  color:lightblue;
 }
 .dg {
   margin-left: 5px;
