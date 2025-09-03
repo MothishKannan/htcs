@@ -43,9 +43,7 @@
 
   transition: 1s;
 }
-.hgt{
-  color:blue;
-}
+
 .btn {
   width: 120px;
   margin-right: 60px;
@@ -466,4 +464,7 @@ a{
 
 .line-break{
   display: block;
+}
+.hgt{
+  color:blue;
 }
